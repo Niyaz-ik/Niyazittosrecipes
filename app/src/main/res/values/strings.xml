@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Niyazitto\'s recipes</string>
+    <string name="main_activity_name_app">Лучшие рецепты только для вас</string>
+    <string name="first_course_button">Первое</string>
+    <string name="Second_course_button">Второе</string>
+    <string name="desserts_button">Десерты</string>
+    <string name="cocktails_button">Коктейли</string>
+    <string name="Button_olady">Рецепт самых вкусных оладий</string>
+</resources>
