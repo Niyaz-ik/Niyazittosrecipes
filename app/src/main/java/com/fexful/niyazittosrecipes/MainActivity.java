@@ -25,8 +25,6 @@ public class MainActivity extends AppCompatActivity {
         buttonCourses.add((Button) findViewById(R.id.buttonSecondCourse));
         buttonCourses.add((Button) findViewById(R.id.buttonDesserts));
         buttonCourses.add((Button) findViewById(R.id.buttonCocktails));
-        
-
 
         for (int i = 0; i < buttonCourses.size(); i++)
             buttonClick(buttonCourses.get(i), i);
